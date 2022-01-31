@@ -1,2 +1,2 @@
-# Blog-App-Stage-2
-Blog app project
+# C144 and  C143
+project
